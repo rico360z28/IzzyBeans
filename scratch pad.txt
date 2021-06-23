@@ -4,3 +4,4 @@ shurdown /a
 netstat -aon
 tasklist
 services.msc
+tasklist /svc
