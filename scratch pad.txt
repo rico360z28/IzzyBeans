@@ -9,4 +9,9 @@ another random command
 Izzy Change
 another
 yet another
+<<<<<<< HEAD
+=======
+ill delete this one
+hi izzy this is my Change
+>>>>>>> f305a849b9424db8cc789d49f74ffc076569b2e7
 
