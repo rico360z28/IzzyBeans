@@ -5,3 +5,4 @@ netstat -aon
 tasklist
 services.msc
 tasklist /svc
+another random command
