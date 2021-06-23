@@ -1,0 +1,6 @@
+scratch pad
+shutdown /r /t 10
+shurdown /a
+netstat -aon
+tasklist
+services.msc
